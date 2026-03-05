@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K4RghkRvpFQ=",
+  "success": true,
+  "projectFilePath": "D:\\programming\\Spring 2026 (after OpenPath)\\AngularApp-WomenHealth\\WomenHealth\\Server\\WomenHealth\\WomenHealth.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\icram\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\icram\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
